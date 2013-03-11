@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jQuery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="1.9.1" />
+    </properties>
+    <CLASSES />
+    <DOCUMENTATION>
+      <root url="file://$USER_HOME$/.WebStorm6/system/extLibs/http_api.jquery.com_resources_api.xml.xml" />
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
