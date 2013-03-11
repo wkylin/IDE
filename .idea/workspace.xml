@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="646d6ac1-32a3-48e1-854c-84468c8e48f1" name="Default" comment=" git option">
+    <list default="true" id="646d6ac1-32a3-48e1-854c-84468c8e48f1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebStorm/readme.txt" afterPath="$PROJECT_DIR$/WebStorm/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IDE.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010445474" ignored="false" />
-    <file path="/readme.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010644558" ignored="false" />
+    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010651495" ignored="false" />
+    <file path="/readme.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010816288" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="11" selection-start="5097" selection-end="5097" vertical-scroll-proportion="0.92749244">
+            <state line="16" column="82" selection-start="717" selection-end="717" vertical-scroll-proportion="-4.4229608">
               <folding />
             </state>
           </provider>
@@ -203,7 +203,11 @@
       <created>1363010329292</created>
       <updated>1363010329292</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" git option">
+      <created>1363010655986</created>
+      <updated>1363010655986</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -297,7 +301,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="11" selection-start="5097" selection-end="5097" vertical-scroll-proportion="0.92749244">
+        <state line="16" column="82" selection-start="717" selection-end="717" vertical-scroll-proportion="-4.4229608">
           <folding />
         </state>
       </provider>

@@ -1,29 +1,26 @@
- XP:C:\Documents and Settings\Administrator\.WebIde10\config\colors
-
+主题文件配置：
+-------------------------------------------------------------------------
+XP:C:\Documents and Settings\Administrator\.WebIde10\config\colors
 win7: C:\Users\Administrator\.WebIde10\config\colors
-
 目录下，然后重启webstorm，settings --> colors & fonts -->scheme name中选择grey_orange
-
 字体(font)：yihei Consolas size: 16 line spaceing:1.2
-
-
-
 如果出现特别长代码对齐白线，在Editor --> Appearance --> Show vertical indent guides 前面的勾去掉即可。
-
 去掉行线：在Editor --> Appearance --> Show right margin 前面的勾去掉即可。
 
 
 jQuery 库支持：
+-----------------------------------------------------------------------------
 	Javascript > Libraries >Add >Documentation URLs
 
 
 Webstorm 4.0 debug调试 需要安装
+----------------------------------------------------------------------------------
 	JetBrains Friefox extension 0.5.3
 	http://code.google.com/p/css-x-fire/wiki/Installation
 
 
 Chrome安装jb.crx
-
+---------------------------------------------------------------------------------
 css压缩工具安装：Yabo
 -----------------------------------------------------------------------------------
  设置>>External Tools
