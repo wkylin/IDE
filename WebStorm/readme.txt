@@ -1,5 +1,7 @@
 主题文件配置：
 -------------------------------------------------------------------------
+Intellij IDEA 的配色分为 IDE 配色 (Settings > Appearance) 和 Editor 配色 (Settings > Editor -> Colors & Fonts)
+
 XP:C:\Documents and Settings\Administrator\.WebIde10\config\colors
 win7: C:\Users\Administrator\.WebIde10\config\colors
 目录下，然后重启webstorm，settings --> colors & fonts -->scheme name中选择grey_orange
@@ -7,6 +9,7 @@ win7: C:\Users\Administrator\.WebIde10\config\colors
 如果出现特别长代码对齐白线，在Editor --> Appearance --> Show vertical indent guides 前面的勾去掉即可。
 去掉行线：在Editor --> Appearance --> Show right margin 前面的勾去掉即可。
 
+http://ooxx.me/category/intellij-idea/page/2
 
 jQuery 库支持：
 -----------------------------------------------------------------------------
@@ -19,8 +22,8 @@ Webstorm 4.0 debug调试 需要安装
 	http://code.google.com/p/css-x-fire/wiki/Installation
 
 
-Chrome安装jb.crx
----------------------------------------------------------------------------------
+Refactor >>>Compress 可以压缩css js文件
+----------------------------------------------------------------------------------------
 css压缩工具安装：Yabo
 -----------------------------------------------------------------------------------
  设置>>External Tools
@@ -29,6 +32,20 @@ css压缩工具安装：Yabo
  Working directory:$FileDir$
 
 
+QuickJump
+------------------------------------------------------------------------------------------
+启用 quickjump 插件之后按 ctrl+; 开始输入关键词,然后会出现几个匹配的位置,这个时候 Enter 或数字,就直接定位过去了当然,输入的越精确,匹配的也越精确
+除此之外还支持模糊搜索;
+ctrl+alt+;   Jump and Autocomplete
+ctrl+shift+;  Jump and Select 跳过去之后直接输入新的文本来替换老文本
+
+RegexpTester
+---------------------------------------------------------------------------------------
+LiveEdit (Chrome安装jb.crx)
+------------------------------------------------------------------------------
+ 能自动更新浏览器里的网页，所以F5也省了，webtorm6.0集成插件。
+ 使用：打开html 之后 Run > Debug 'filename.html'，会提示需要安装 Chrome 扩展，点蓝色的文字跳到 Chrome，下载jb.crx.
+ 装完后 Chrome 的 Console.log 都可以直接显示在 Intellij IDEA 里
 
  配置Less
 --------------------------------------------------------------------------------------------------------------
@@ -74,8 +91,6 @@ File Templates
  *@author:wkylin [wkylin@github.com]
  */
 
-
-
 配置CSScomb 让你的css属性更有序
 -------------------------------------------------------------------------------
 webstorm 6.0插件安装
@@ -92,9 +107,6 @@ http://docs.emmet.io/
 
 快捷键：Ctrl+Alt+J >>>>select template
 
-
-
-
 Webstorm的插件：
 ----------------------------------------------------------------------------------------------------
 通过IDE直接安装插件，进入“settings”，搜索“plugins”，进入插件页面;
@@ -105,9 +117,10 @@ Webstorm的插件：
 3.markdown
 支持markdown语法
 4.JsTestDriver
-webstorm内置，推荐idea安装，用于回归js单元测试，后面会介绍用法。
-5.CSS-X-Fire
-前面有介绍过了，firebug的一个插件，当你修改css属性时修改编辑器内的代码。
+webstorm内置，推荐idea安装，用于回归js单元测试.
+5.CSS-X-Fire   firebug的一个插件，当你修改css属性时修改编辑器内的代码。
+a. Seting >>> Plugins>>安装CSS-X-Fire
+b. Get connected 点击Help，打开http://localhost:6776/files/about.html 下载cssxfire.xpi 安装浏览器上
 6.Key Promoter
 快捷键提示插件，帮助你快速记住快捷键。当你用鼠标完成某功能时，它会指示有相应的快捷键来完成刚才的功能，同时指导你为经常重复的操作建立快捷键。
 7.AltN8
