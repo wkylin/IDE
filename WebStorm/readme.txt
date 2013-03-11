@@ -168,3 +168,7 @@ Version Control>>git>>Path to Git executable
 
 4.操作 add commit push
 5.定义快捷键：
+ update:Alt+U
+ commit:Alt+C
+ pull:Alt+L
+ push:Alt+P
