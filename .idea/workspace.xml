@@ -7,7 +7,7 @@
     </list>
     <ignored path="IDE.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010651495" ignored="false" />
+    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010876658" ignored="false" />
     <file path="/readme.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010816288" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="82" selection-start="717" selection-end="717" vertical-scroll-proportion="-4.4229608">
+            <state line="146" column="4" selection-start="4809" selection-end="4809" vertical-scroll-proportion="0.326284">
               <folding />
             </state>
           </provider>
@@ -207,7 +207,11 @@
       <created>1363010655986</created>
       <updated>1363010655986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" git option">
+      <created>1363010879734</created>
+      <updated>1363010879734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -301,7 +305,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="82" selection-start="717" selection-end="717" vertical-scroll-proportion="-4.4229608">
+        <state line="146" column="4" selection-start="4809" selection-end="4809" vertical-scroll-proportion="0.326284">
           <folding />
         </state>
       </provider>
