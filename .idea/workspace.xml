@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="646d6ac1-32a3-48e1-854c-84468c8e48f1" name="Default" comment="">
+    <list default="true" id="646d6ac1-32a3-48e1-854c-84468c8e48f1" name="Default" comment="test git commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebStorm/readme.txt" afterPath="$PROJECT_DIR$/WebStorm/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IDE.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363009085927" ignored="false" />
-    <file path="/readme.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363009072682" ignored="false" />
+    <file path="/Dummy.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010207002" ignored="false" />
+    <file path="/readme.txt" changelist="646d6ac1-32a3-48e1-854c-84468c8e48f1" time="1363010005650" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
       <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="19" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.7824773">
+            <state line="152" column="8" selection-start="4518" selection-end="4518" vertical-scroll-proportion="0.27492446">
               <folding />
             </state>
           </provider>
@@ -73,7 +75,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -132,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="Settings.JavaScript.Linters.JSLint" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -148,6 +150,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="646d6ac1-32a3-48e1-854c-84468c8e48f1" name="Default" comment="" />
@@ -162,7 +181,11 @@
       <created>1363009092357</created>
       <updated>1363009092357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test git commit">
+      <created>1363009280740</created>
+      <updated>1363009280740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -255,7 +278,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/WebStorm/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="19" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.7824773">
+        <state line="152" column="8" selection-start="4518" selection-end="4518" vertical-scroll-proportion="0.27492446">
           <folding />
         </state>
       </provider>

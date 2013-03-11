@@ -154,3 +154,17 @@ NPM模块管理
 --------------------------------------------------------------------------------------
 npm是 Node.js 的包管理工具，用来安装各种 Node.js 的扩展。
 https://npmjs.org/
+
+配置git
+------------------------------------------------------------------------------------
+1. 安装git.exe
+2. 配置git：
+Version Control>>git>>Path to Git executable
+安装目录：C:\Program Files\Git\bin\git.exe
+3.  Checkout from Version Control >>git
+    Git Repository URL:https://github.com/wkylin/IDE.git
+    Parent Directory:D:\github
+    Directory Name: IDE
+
+4.操作 add commit push
+5.定义快捷键：
