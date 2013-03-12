@@ -21,9 +21,9 @@ Webstorm 4.0 debug调试 需要安装
 	JetBrains Friefox extension 0.5.3
 	http://code.google.com/p/css-x-fire/wiki/Installation
 
-
+Assets Compressor 插件
+------------------------------------------------
 Refactor >>>Compress 可以压缩css js文件
-----------------------------------------------------------------------------------------
 css压缩工具安装：Yabo
 -----------------------------------------------------------------------------------
  设置>>External Tools
