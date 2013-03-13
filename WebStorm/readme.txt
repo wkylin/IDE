@@ -16,6 +16,16 @@ jQuery 库支持：
 	Javascript > Libraries >Add >Documentation URLs
 
 
+Deployment >>Configuration
+--------------------------------------------------------------------------------
+   1.Add >>Name:***
+   2.Connection:Type 选择In place
+     Web server root URL：http://www.a.com/assets
+   3.Mappings:
+     Local path:D:\github\IDE
+     Web path on server '***': /
+
+
 Webstorm 4.0 debug调试 需要安装
 ----------------------------------------------------------------------------------
 	JetBrains Friefox extension 0.5.3
@@ -24,7 +34,8 @@ Webstorm 4.0 debug调试 需要安装
 Assets Compressor 插件
 ------------------------------------------------
 Refactor >>>Compress 可以压缩css js文件
-css压缩工具安装：Yabo
+
+css压缩合并工具安装：Yabo
 -----------------------------------------------------------------------------------
  设置>>External Tools
  Program:wscript
