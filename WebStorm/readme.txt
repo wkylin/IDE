@@ -191,3 +191,62 @@ Version Control>>git>>Path to Git executable
  commit:Alt+C
  pull:Alt+L
  push:Alt+P
+
+Karma-测试框架(Test Runner)
+------------------------------------------------------------------------------------------
+1.安装： npm install -g karma
+2.安装路径：C:\Users\Administrator\AppData\Roaming\npm
+3.WebStorm>Settings>External Tools
+    Name:Karma
+    Program:C:\Users\Administrator\AppData\Roaming\npm\karma.cmd
+    Parameters：karma
+    Working directory:$FileDir$
+
+参考：http://www.tuicool.com/articles/Ijemay
+
+升级浏览器
+----------------------------------------------------------------------------------------------------
+支付宝：
+http://ie.alipay.com/download
+https://securitycenter.alipay.com/sc/partner/browser.htm
+
+
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an outdated browser.
+    <a href="http://browsehappy.com/">Upgrade your browser today</a> or
+    <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> or
+    <a href="http://windows.microsoft.com/zh-cn/windows/upgrade-your-browser">Upgrade To IE8</a>
+    to better experience this site.
+</p>
+<![endif]-->
+
+<!--[if IE 6]>
+<div id="kie-bar" class="kie-bar">
+    您使用的浏览器版本过低，建议立即升级到
+    <a href="http://windows.microsoft.com/zh-cn/windows/upgrade-your-browser" target="_blank" >
+        <i class="kie-bar-icon-ie"></i>Internet Explorer 8
+    </a>
+    或
+    <a href="http://browsehappy.com/" target="_blank" >
+        <i class="kie-bar-icon-chrome"></i>Upgrade your browser today
+    </a>
+</div>
+<![endif]-->
+/* css */
+.kie-bar {
+    height: 24px;
+    line-height: 1.8;
+    font-weight:normal;
+    text-align: center;
+    border-bottom:1px solid #fce4b5;
+    background-color:#FFFF9B;
+    color:#e27839;
+    position: relative;
+    font-size: 14px;
+    text-shadow: 0px 0px 1px #efefef;
+    padding: 5px 0;
+}
+.kie-bar a {
+    color:#08c;
+    text-decoration: none;
+}
