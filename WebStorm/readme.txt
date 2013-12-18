@@ -1,3 +1,17 @@
+Jetbrains Intellij IDEA 13.0 注册机
+http://174.140.163.89/keygen/idea.htm
+用户名：wkylin
+序列号：1381971263-V2CVS-NXYYO-2D0O1-JZW88-S9EC0
+用户名：tonglu
+序列号：299218578-E1BML-RU4CH-N7N56-1XTJW-XWQF2
+用户名：wkylinn
+序列号：891589168-D71M9-MRSSO-SQ1KX-KFI01-81AK3
+用户名：ying
+序列号：42779923-5TO5V-6CSKF-KWW00-0XSWC-WT0W2
+用户名：zhangying
+序列号：1835676475-K80FI-61S7C-CQP8Z-CG1ZF-G66U1
+
+
 主题文件配置：
 -------------------------------------------------------------------------
 Intellij IDEA 的配色分为 IDE 配色 (Settings > Appearance) 和 Editor 配色 (Settings > Editor -> Colors & Fonts)
@@ -31,7 +45,7 @@ Webstorm 4.0 debug调试 需要安装
 	JetBrains Friefox extension 0.5.3
 	http://code.google.com/p/css-x-fire/wiki/Installation
 
-Assets Compressor 插件
+Assets Compressor 插件（下载安装）
 ------------------------------------------------
 Refactor >>>Compress 可以压缩css js文件
 
@@ -52,7 +66,7 @@ ctrl+shift+;  Jump and Select 跳过去之后直接输入新的文本来替换�
 
 RegexpTester
 ---------------------------------------------------------------------------------------
-LiveEdit (Chrome安装jb.crx)
+LiveEdit (Chrome安装jb.crx) JetBrains IDE Support
 ------------------------------------------------------------------------------
  能自动更新浏览器里的网页，所以F5也省了，webtorm6.0集成插件。
  使用：打开html 之后 Run > Debug 'filename.html'，会提示需要安装 Chrome 扩展，点蓝色的文字跳到 Chrome，下载jb.crx.
