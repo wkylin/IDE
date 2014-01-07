@@ -1,4 +1,9 @@
+using-webstorm-to-maintain-a-jekyll-site
+-----------------------------------------------------------------------------
+http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/
+
 Jetbrains Intellij IDEA 13.0 注册机
+------------------------------------------------------------------------------
 http://174.140.163.89/keygen/idea.htm
 用户名：wkylin
 序列号：1381971263-V2CVS-NXYYO-2D0O1-JZW88-S9EC0
@@ -158,6 +163,10 @@ http://gruntjs.com/
 http://www.oschina.net/question/89964_47198
 http://www.zhangxinxu.com/wordpress/2013/01/uglifyjs-compress-js/
 
+Karma(原名Testacular)与WebStorm进行集成
+-------------------------------------------------------------------------------------
+http://www.cnblogs.com/huang0925/archive/2013/04/09/3009795.html
+
 uglifyjs 安装：
 -----------------------------------------------------------------------------
 1.安装node
@@ -188,6 +197,7 @@ NPM模块管理
 npm是 Node.js 的包管理工具，用来安装各种 Node.js 的扩展。
 https://npmjs.org/
 
+
 配置git
 ------------------------------------------------------------------------------------
 1. 安装git.exe
@@ -209,14 +219,16 @@ Version Control>>git>>Path to Git executable
 Karma-测试框架(Test Runner)
 ------------------------------------------------------------------------------------------
 1.安装： npm install -g karma
-2.安装路径：C:\Users\Administrator\AppData\Roaming\npm
+2.目录：C:\Users\Administrator\AppData\Roaming\npm\node_modules\karma
 3.WebStorm>Settings>External Tools
     Name:Karma
     Program:C:\Users\Administrator\AppData\Roaming\npm\karma.cmd
-    Parameters：karma
+    Parameters：start
     Working directory:$FileDir$
 
 参考：http://www.tuicool.com/articles/Ijemay
+
+
 
 webstorm内存设置
 ------------------------------------------------------------------------------------------
