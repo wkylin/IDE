@@ -1,3 +1,10 @@
+﻿
+Ignore vendor prefix properties
+------------------------------------------------------------------------------------
+Inspections -> CSS -> W3C CSS Validator 里面，勾选 Ignore vendor prefix properties
+
+
+
 using-webstorm-to-maintain-a-jekyll-site
 -----------------------------------------------------------------------------
 http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/
@@ -74,11 +81,17 @@ LiveEdit (Chrome安装jb.crx) JetBrains IDE Support
     5.打开webstorm的file-settings-External Tools，点击左上角的“加号”标志add，进入对话框。
     6.最重要的一步：
     parameters，他指定lessc编译器的地址以及输出文件的地址，格式是："lessc的地址" $FilePath "编译的地址（变量表示）"。
+
     Program:C:\Program Files\nodejs\node.exe
     Parameters:C:\Users\Administrator\node_modules\less\bin\lessc $FilePath$ $FileDir$\$FileNameWithoutExtension$.css
     Working directory:C:\Program Files\nodejs
     7.Keymap >> Exteranl tool  指定快捷键：Ctrl+Shift+L
     8.之后打开一个.less后缀名的文件，快捷键编译，如果webstorm底部状态控制器显示 Process finished with exit code 0 ，那么恭喜你，你大功告成了，接下来 let the coding begin~
+
+
+C:\Users\wangjingang\AppData\Roaming\npm\lessc -> C:\Users\wangjingang\AppData\Roaming\npm\node_modules\less\bin\lessc
+
+
 
 Node及less安装目录：
 ------------------------------------------------------------------------------
